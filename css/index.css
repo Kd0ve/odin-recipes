@@ -9,12 +9,13 @@
     width: 500px;
 }
 /* navbar */
-.recipes {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-}
 .recipes li {
-    display: inline;
+    padding: 1em;
+}
+.recipes {
+    list-style: none;
+    display: flex;
+    width: 500px;
+    margin: 0 auto;
+    padding: 0;
 }
