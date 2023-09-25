@@ -1,0 +1,20 @@
+/* Classes style for index*/
+.title {
+    text-align: center;
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+/* navbar */
+.recipes {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.recipes li {
+    display: inline;
+}
