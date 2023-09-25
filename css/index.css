@@ -10,12 +10,16 @@
 }
 /* navbar */
 .recipes li {
-    padding: 1em;
+    padding: 0.5em;
 }
 .recipes {
     list-style: none;
     display: flex;
-    width: 500px;
+    justify-content: center;
+    max-width: 500px;
     margin: 0 auto;
     padding: 0;
+}
+a:hover {
+    padding: 0.5em;
 }
